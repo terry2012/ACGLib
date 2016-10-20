@@ -1,0 +1,2 @@
+# Flow policy for apps using the location ACG
+ACG("location") -> DISPLAY

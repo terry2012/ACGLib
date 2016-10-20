@@ -1,0 +1,2 @@
+# Flow policy for apps using the audio ACG
+ACG("audio") -> SPEAKER

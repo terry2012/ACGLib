@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ACG buttons -->
+    <item name="location_acg_button_id" type="id"/>
+    <item name="audio_acg_button_id" type="id" />
+    <item name="play_audio_acg_button_id" type="id" />
+    <item name="update_location_acg_button_id" type="id"/>
+
+    <!-- ACG fragments -->
+    <item name="location_acg_fragment_id" type="id" />
+    <item name="audio_acg_fragment_id" type="id" />
+    <item name="play_audio_acg_fragment_id" type="id" />
+    <item name="update_location_acg_fragment_id" type="id" />
+</resources>

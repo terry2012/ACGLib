@@ -1,0 +1,12 @@
+<resources>
+    <string name="location_acg_text_on">Turn Location Off</string>
+    <string name="location_acg_text_off">Turn Location On</string>
+
+    <string name="audio_acg_text_on">Record Audio</string>
+    <string name="audio_acg_text_off">Stop Recording</string>
+    <string name="play_audio_acg_button">Play Audio</string>
+
+    <string name="test_sparta_button">Test SPARTA</string>
+    <string name="update_location_acg_off">Turn location tracking on</string>
+    <string name="update_location_acg_on">Turn location tracking off</string>
+</resources>
